@@ -1,4 +1,8 @@
-# Projects
-This repository contains all personal projects I have worked on outside of the classroom and are solely mine.
-1. Truth Table Generator: Utilizes java.swing and several data structures like queues, stacks, arraylists e.t.c. to perform operations on simple 
-propositional logic problems. Supports ternary operations and beyond and features a help page to refer to.
+# Truth Table Generator
+This repository holds my first ever project that utilizes Java's **Swing** library as a GUI. 
+The truth table generator parses user inputs (propostional logic expressions) and returns a truth table
+
+## How it Works
+
+ 
+ 
